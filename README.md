@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vairavelflash
 - 👀 I’m interested in ... web development
 - 🌱 I’m currently learning ...B.E (E.E.E)
-- 💞️ I’m looking to collaborate on ...  any challenging environment
+- 
 
 
 <!---
