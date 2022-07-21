@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Vairavelflash
-- 👀 I’m interested in ... web development
+- 👋 Hi, I’m @Vairavel
+- 👀 I’m interested in ... MERN development
 - 🌱 I’m currently learning ...B.E (E.E.E) 
 
 
