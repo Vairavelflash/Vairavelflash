@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Vairavel
-- 👀 I’m interested in ... MERN development
-- 🌱 Tech Stack - React JS,Node JS, Java, Wso2
+👋 Hello, I'm Vairavel!
+
+🚀 Full Stack Developer | Tech Explorer
+
+🖥️ React JS, Node JS, WSO2, Next JS, SQL
 
 react-redux movie webiste - https://react-redux-movie-api-green.vercel.app/
 react random meme - https://react-get-random-meme.vercel.app/
