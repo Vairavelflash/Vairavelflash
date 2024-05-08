@@ -6,7 +6,7 @@
 
 react-redux movie webiste - https://react-redux-movie-api-green.vercel.app/  
 
-React random meme - https://react-get-random-meme.vercel.app/	
+React random meme - https://react-av7n2b.stackblitz.io
 
 React Chart Crypto & Weather API - https://vairavelflash.github.io/React-Chart-with-API/
 <!---
