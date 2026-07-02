@@ -1,10 +1,18 @@
 👋 Hello, I'm Vairavel!
 
-🚀 Full Stack Developer | Tech Explorer
+🚀 Full Stack Developer | Gen AI Developer | Tech Explorer
 
-🖥️ React JS, Node JS, WSO2, Next JS, SQL
+🖥️ React JS, Node JS, Next JS, SQL, Langchain, LLM, AI Agent, Python, WSO2 
 
-react-redux movie webiste - https://react-redux-movie-api-green.vercel.app/  
+AI Chat with Rag (pdf upload) - https://e-commerce-chi-pied-87.vercel.app/admin/aichat
+
+Ecommerce AI Agent - https://e-commerce-chi-pied-87.vercel.app/admin/aiagent 
+
+AI Food Calorie Tracker - https://sub-nutritrack.vercel.app/
+
+ReExt Competation App [Backend Not working]- https://suma-campus.vercel.app/
+
+React-redux movie webiste - https://react-redux-movie-api-green.vercel.app/  
 
 React random meme - https://react-av7n2b.stackblitz.io
 
