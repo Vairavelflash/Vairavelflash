@@ -8,7 +8,7 @@ AI Chat with Rag (pdf upload) - https://e-commerce-chi-pied-87.vercel.app/admin/
 
 Ecommerce AI Agent - https://e-commerce-chi-pied-87.vercel.app/admin/aiagent 
 
-AI Food Calorie Tracker - https://sub-nutritrack.vercel.app/
+AI Food Calorie Tracker(Vibe Code) - https://sub-nutritrack.vercel.app/
 
 ReExt Competation App [Backend Not working]- https://suma-campus.vercel.app/
 
